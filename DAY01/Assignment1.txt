@@ -1,0 +1,18 @@
+                                               ASSIGNMENT 1
+   
+                Write basic terminologies of Networking with examples
+
+Node: Node is any device that is connected to the network.
+Ex.  Computer, router, printer, etc.
+
+IP ADDRESS: It is a unique number assigned to each node(device) that is connected on the network
+
+PROTOCOL: A set of rules that defines the process of communication of devices in the network
+
+ROUTER: It is a device that connects multiple networks together and forwards data pack between them
+
+SWITCH: A networking device that connects devices on a network and forwards datapack between them
+
+DNS: It stands for Domain Name System. It converts domain names to the IP addresses of connected devices in the network
+
+FIREWALL: It is a security device that monitors and controls incoming and outgoing network traffic based on a set of pre defined security rules.
